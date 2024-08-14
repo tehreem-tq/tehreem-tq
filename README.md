@@ -7,6 +7,9 @@ I am Tehreem from Australia, and I enjoy working on front-end. I have worked wit
 - AngularJS
 - Bootstrap / JS / HTML / CSS
 
+## Examples of Work
+<img src="https://github.com/tehreem-tq/tehreem-tq/blob/main/Cube-Medical-Billing.png" width="240" />
+
 🌱 I’m currently learning Figma 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tehreem-qureshi-43187a165/)  
