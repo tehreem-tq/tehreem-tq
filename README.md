@@ -7,7 +7,9 @@ I am Tehreem from Australia, and I enjoy working on front-end. I have worked wit
 - AngularJS
 - Bootstrap / JS / HTML / CSS
   
-🌱 I’m currently learning Figma
+🌱 Learning Figma
+🌱 Enrolled in UX & Web Design Master Course: Strategy, Design, Development
+
 
 ## Examples of Work
 <img src="https://github.com/tehreem-tq/tehreem-tq/blob/main/account-setup.JPG" width="240" />
